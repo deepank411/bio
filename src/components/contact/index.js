@@ -1,37 +1,35 @@
 const Contact = () => {
+	const details = [
+		{
+			title: 'Father:',
+			details: '+91-9426742374',
+			link: 'tel:+91-9426742374',
+		},
+		{
+			title: 'Mother:',
+			details: '+91-9408786608',
+			link: 'tel:+91-9408786608',
+		},
+		{
+			title: 'Email:',
+			details: 'kkagarwal1966@gmail.com',
+			link: 'mailto:kkagarwal1966@gmail.com',
+		},
+	]
 	return (
 		<footer className="footer">
 			<h5 className="footer-info">
-				Get in touch with
-				{/* write to
-				<a href="mailto:deepank411@gmail.com" className="email"
-				>deepank411@gmail.com</a> */}
+				Get in touch
 			</h5>
 			<div className="center fcol">
-				<div className="row">
+				{details.map(x => <div className="row">
 					<div className="col s12 m4 l3 title">
-						Father:
+						{x.title}
 					</div>
 					<div className="col s12 m8 l9 details">
-						<a href="tel:+91-9426742374">+91-9426742374</a>
+						<a href={x.link}>{x.details}</a>
 					</div>
-				</div>
-				<div className="row">
-					<div className="col s12 m4 l3 title">
-						Mother:
-					</div>
-					<div className="col s12 m8 l9 details">
-						<a href="tel:+91-9408786608">+91-9408786608</a>
-					</div>
-				</div>
-				<div className="row">
-					<div className="col s12 m4 l3 title">
-						Email:
-					</div>
-					<div className="col s12 m8 l9 details">
-						<a href="mailto:kkagarwal1966@gmail.com">kkagarwal1966@gmail.com</a>
-					</div>
-				</div>
+				</div>)}
 			</div>
 			{/* <div className="social-icons">
 				<a
