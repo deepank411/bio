@@ -48,11 +48,11 @@ function FamilySection() {
 		},
 		{
 			title: 'Nanaji',
-			details: 'Late Sh. B.M. Jain (Businessman)',
+			details: 'Late Sh. B.M. Jain, Businessman',
 		},
 		{
 			title: 'Mamaji',
-			details: 'Sh. Arul Jain, Delhi, (Businessman)',
+			details: 'Sh. Arul Jain, Delhi, Businessman',
 		},
 		{
 			title: 'Maasiji',
