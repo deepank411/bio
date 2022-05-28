@@ -22,26 +22,26 @@ function FamilySection() {
 		},
 		{
 			title: 'Younger Sister',
-			details: 'Astha Agarwal, Pursuing  BBA at Surat',
+			details: 'Astha Agarwal, Pursuing BBA at Surat',
 		},
 		{
 			title: 'Tauji',
-			details: 'Shri Chandra Bhan Agarwal, Retd. District Employment Officer, Govt. of Rajasthan. Settled at Ajmer.',
+			details: 'Shri Chandra Bhan Agarwal, Retd. District Employment Officer, Govt. of Rajasthan. Settled in Ajmer.',
 		},
 		{
 			title: 'Buaji',
 			details: [
-				"1. Smt. Suman Lata Agarwal (Retd. Teacher), Beawar, Married to Shri Om Prakash Agarwal Retd. Principal, Sr. Sec. School.",
+				"1. Smt. Suman Lata Agarwal (Retd. Teacher), Settled in Beawar",
 				<br />,
-				"2. Smt.Lata Goyal (House maker), Married to Sh.Mukesh Kumar Goyal, Retd. DET, BSNL, Jaipur.",
+				"2. Smt. Lata Goyal (House maker), Settled in Jaipur",
 				<br />,
-				"3. Smt.Mamta Agarwal (House maker), Married to Sh.Harish Agarwal, Businessman, Surat.",
+				"3. Smt. Mamta Agarwal (House maker), Settled in Surat",
 			],
 		},
 		{
 			title: 'Cousins',
 			details: [
-				"1. Rohit Agarwal, B.Tech. (Computer Science) from IIT Delhi, Chief Technology Officer, ElectricPe, Married to Antulika Goyal, B.Tech. working in Infosys, Gurgaon",
+				"1. Rohit Agarwal, B.Tech. (Computer Science) from IIT Delhi, CTO, ElectricPe, Married to Antulika Goyal, B.Tech. working in Infosys, Gurgaon",
 				<br />,
 				"2. Rishi Agarwal, M.Tech. (Mathematics & Computing) from IIT Delhi, Product Manager, Slintel, Married to Arpita Agarwal, MCA. working in Accenture, Bangalore.",
 			],

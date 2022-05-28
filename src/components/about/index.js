@@ -9,20 +9,20 @@ function AboutSection() {
 			details: 'Jaipur, Rajasthan',
 		},
 		{
+			title: 'Gotra',
+			details: 'Garg',
+		},
+		{
 			title: 'Height',
 			details: '5” 6.',
 		},
 		{
 			title: 'Occupation',
-			details: 'Engineering Manager, Yellow Class, Ivypods Technology Pvt Ltd.',
+			details: 'Engineering Manager, Yellow Class, Ivypods Technology Pvt Ltd., Gurgaon',
 		},
 		{
 			title: 'Education',
-			details: 'B.Tech in Communications & Computer Engineering from LNMIIT Jaipur',
-		},
-		{
-			title: 'Religion and Gotra',
-			details: 'Hindu, Garg',
+			details: 'B.Tech in Communications & Computer Engineering from LNMIIT, Jaipur',
 		},
 	]
 	return (
