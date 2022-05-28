@@ -12,7 +12,7 @@ const images = [
 
 const Gallery = () => {
 	return (
-		<div class="img-container">
+		<div className="img-container">
 			{images.map(x => <figure>
 				<img src={x} alt="asd"/>
 			</figure>)}
