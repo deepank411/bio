@@ -22,7 +22,7 @@ function FamilySection() {
 		},
 		{
 			title: 'Sister',
-			details: 'Astha Agarwal, Younger Sister, Pursuing BBA in Surat',
+			details: 'Astha Agarwal, Pursuing BBA in Surat (Younger sister)',
 		},
 		{
 			title: 'Tauji',
