@@ -21,8 +21,8 @@ function FamilySection() {
 			details: 'Neema Agarwal (Housemaker)',
 		},
 		{
-			title: 'Younger Sister',
-			details: 'Astha Agarwal, Pursuing BBA at Surat',
+			title: 'Sister',
+			details: 'Astha Agarwal, Younger Sister, Pursuing BBA in Surat',
 		},
 		{
 			title: 'Tauji',
