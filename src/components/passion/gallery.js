@@ -1,22 +1,13 @@
 import './gallery.css';
 
 const images = [
-	'https://dummyimage.com/600x200/f4f4f4/0f0f0f',
-	'https://dummyimage.com/600x400/f4f4f4/0f0f0f',
-	'https://dummyimage.com/600x600/f4f4f4/0f0f0f',
-	'https://dummyimage.com/600x200/f4f4f4/0f0f0f',
-	'https://dummyimage.com/600x600/f4f4f4/0f0f0f',
-	"https://assets.codepen.io/12005/windmill.jpg",
-	"https://assets.codepen.io/12005/suspension-bridge.jpg",
-	"https://assets.codepen.io/12005/sunset.jpg",
-	"https://assets.codepen.io/12005/snowy.jpg",
-	"https://assets.codepen.io/12005/bristol-balloons1.jpg",
-	"https://assets.codepen.io/12005/dog-balloon.jpg",
-	"https://assets.codepen.io/12005/abq-balloons.jpg",
-	"https://assets.codepen.io/12005/disney-balloon.jpg",
-	"https://assets.codepen.io/12005/bristol-harbor.jpg",
-	"https://assets.codepen.io/12005/bristol-balloons2.jpg",
-	"https://assets.codepen.io/12005/toronto.jpg",
+	'https://res.cloudinary.com/deepank411/image/upload/v1653751174/my%20clicked%20photos/IMG_20190610_170356496_HDR-01_azzjdn.jpg',
+	'https://res.cloudinary.com/deepank411/image/upload/v1653751185/my%20clicked%20photos/IMG_20190608_192856078-01_qukeud.jpg',
+	'https://res.cloudinary.com/deepank411/image/upload/v1653751178/my%20clicked%20photos/IMG_20210120_181237__01_akj10t.jpg',
+	'https://res.cloudinary.com/deepank411/image/upload/v1653751178/my%20clicked%20photos/IMG_1815_cqoleh.jpg',
+	'https://res.cloudinary.com/deepank411/image/upload/v1653751162/my%20clicked%20photos/Copy_of_IMG_20171216_132420288-01_h8xoxu.jpg',
+	'https://res.cloudinary.com/deepank411/image/upload/v1653751176/my%20clicked%20photos/IMG-20190608-WA0007-01_qxucfb.jpg',
+	'https://res.cloudinary.com/deepank411/image/upload/v1653751181/my%20clicked%20photos/IMG_20190606_115013851_HDR-01_lqjonf.jpg',
 ];
 
 const Gallery = () => {

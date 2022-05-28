@@ -1,10 +1,8 @@
-import Logo from '../../images/white-logo1.png';
-
 function MainSection() {
 	return (
 		<section className="main-section" id="main">
 			<div className="center box">
-				<img src={Logo} width={150} alt='logo' />
+				<img src="https://res.cloudinary.com/deepank411/image/upload/v1653751746/my%20clicked%20photos/white-logo1_y3lc1v.png" width={150} alt='logo' />
 				<div className="name-title wow fadeInLeft">Deepank</div>
 				<div className="name-subtitle wow fadeInUp">
 					Software Engineer

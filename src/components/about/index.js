@@ -1,5 +1,3 @@
-import Me from '../../images/me.jpeg';
-
 function AboutSection() {
 	const personalDetails = [
 		{
@@ -64,7 +62,7 @@ function AboutSection() {
 					<div
 						className="right-area area"
 					>
-						<img src={Me} className="me" alt='me' />
+						<img src="https://res.cloudinary.com/deepank411/image/upload/v1653751656/my%20clicked%20photos/me_ennpw4.jpg" className="me" alt='me' />
 					</div>
 				</div>
 				{/* <!-- <div className="m-t-30 center">

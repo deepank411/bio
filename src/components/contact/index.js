@@ -1,41 +1,41 @@
 const Contact = () => {
 	return (
-		<footer class="footer">
-			<h5 class="footer-info">
+		<footer className="footer">
+			<h5 className="footer-info">
 				Get in touch with
 				{/* write to
-				<a href="mailto:deepank411@gmail.com" class="email"
+				<a href="mailto:deepank411@gmail.com" className="email"
 				>deepank411@gmail.com</a> */}
 			</h5>
 			<div className="center fcol">
 				<div className="row">
-					<div className="col s12 m4 l3">
+					<div className="col s12 m4 l3 title">
 						Father:
 					</div>
-					<div className="col s12 m8 l9">
+					<div className="col s12 m8 l9 details">
 						<a href="tel:+91-9426742374">+91-9426742374</a>
 					</div>
 				</div>
 				<div className="row">
-					<div className="col s12 m4 l3">
+					<div className="col s12 m4 l3 title">
 						Mother:
 					</div>
-					<div className="col s12 m8 l9">
+					<div className="col s12 m8 l9 details">
 						<a href="tel:+91-9408786608">+91-9408786608</a>
 					</div>
 				</div>
 				<div className="row">
-					<div className="col s12 m4 l3">
+					<div className="col s12 m4 l3 title">
 						Email:
 					</div>
-					<div className="col s12 m8 l9">
+					<div className="col s12 m8 l9 details">
 						<a href="mailto:kkagarwal1966@gmail.com">kkagarwal1966@gmail.com</a>
 					</div>
 				</div>
 			</div>
-			{/* <div class="social-icons">
+			{/* <div className="social-icons">
 				<a
-					class="icon-small m-r-30"
+					className="icon-small m-r-30"
 					href="https://www.facebook.com/deepank.agarwal"
 					target="_blank" rel="noreferrer"
 				>
@@ -54,7 +54,7 @@ const Contact = () => {
 					</svg>
 				</a>
 				<a
-					class="icon-small m-r-30"
+					className="icon-small m-r-30"
 					href="https://in.linkedin.com/in/deepank411"
 					target="_blank" rel="noreferrer"
 				>
@@ -73,7 +73,7 @@ const Contact = () => {
 					</svg>
 				</a>
 				<a
-					class="icon-small"
+					className="icon-small"
 					href="https://www.github.com/deepank411"
 					target="_blank" rel="noreferrer"
 				>

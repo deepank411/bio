@@ -392,24 +392,25 @@ section h2 {
 
 /* ---------------- Skills Section ------------ */
 
-.skills-section {
+.family-section {
 	margin-top: 200px;
+	padding-bottom: 20px;
 }
 
-.skills-section .title .h6 {
+.family-section .title .h6 {
 	font-weight: 600;
 	font-size: 20px;
 	color: var(--invert-color);
 }
 
-.skills-section .details .h6 {
+.family-section .details .h6 {
 	font-weight: 200;
 	color: var(--invert-color);
 	font-size: 18px;
 	line-height: 1.5;
 }
 
-.skills-section .img-container {
+.family-section .img-container {
 	min-width: 40px;
 	display: flex;
 	align-items: center;
@@ -541,6 +542,14 @@ footer {
 	height: 25px;
 	fill: var(--primary-color);
 	cursor: pointer;
+}
+
+.footer .title {
+	font-size: 18px;
+}
+
+.footer .details {
+	font-size: 16px;
 }
 
 /*--------------------- Media Queries -----------------*/

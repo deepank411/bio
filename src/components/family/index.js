@@ -61,7 +61,7 @@ function FamilySection() {
 	]
 	return (
 		<div className="FamilySection">
-			<section className="skills-section" id="skills">
+			<section className="family-section" id="skills">
 				<h2 className="uppercase center invert-color">
 					My Family
 				</h2>
