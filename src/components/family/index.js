@@ -64,7 +64,7 @@ function FamilySection() {
 		},
 		{
 			title: 'Address',
-			details: '18, Neelam Society, Dumas Road, Surat, Gujarat',
+			details: '18, Neelam Society, Near Passport Office, Dumas Road, Surat, Gujarat',
 		},
 	]
 	return (
