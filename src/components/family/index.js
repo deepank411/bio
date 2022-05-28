@@ -2,11 +2,11 @@ function FamilySection() {
 	const details = [
 		{
 			title: 'Dadaji',
-			details: 'Late Sh. Tikam Chand Ji Agarwal (Retd. Asst. Director, Mails, CPMG Office, Rajasthan, Jaipur)',
+			details: 'Late Sh. Tikam Chand Ji Agarwal, Retd. Asst. Director, Mails, CPMG Office, Rajasthan, Jaipur',
 		},
 		{
 			title: 'Dadiji',
-			details: 'Smt. Kamla Agarwal (Housemaker)',
+			details: 'Smt. Kamla Agarwal, Housemaker',
 		},
 		{
 			title: 'Father',
@@ -14,7 +14,7 @@ function FamilySection() {
 		},
 		{
 			title: 'Mother',
-			details: 'Neema Agarwal (Housemaker)',
+			details: 'Neema Agarwal, Housemaker',
 		},
 		{
 			title: 'Sister',
@@ -26,16 +26,16 @@ function FamilySection() {
 		},
 		{
 			title: 'Taiji',
-			details: 'Smt. Raj Rani Agarwal, House maker, Settled in Ajmer.',
+			details: 'Smt. Raj Rani Agarwal, Housemaker, Settled in Ajmer.',
 		},
 		{
 			title: 'Buaji',
 			details: [
 				"1. Smt. Suman Lata Agarwal, Retd. Teacher, Settled in Beawar",
 				<br />,
-				"2. Smt. Lata Goyal, House maker, Settled in Jaipur",
+				"2. Smt. Lata Goyal, Housemaker, Settled in Jaipur",
 				<br />,
-				"3. Smt. Mamta Agarwal, House maker, Settled in Surat",
+				"3. Smt. Mamta Agarwal, Housemaker, Settled in Surat",
 			],
 		},
 		{
