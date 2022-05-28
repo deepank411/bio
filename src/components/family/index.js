@@ -5,7 +5,7 @@ function FamilySection() {
 			details: 'House No. 5/514, Saraogi Mohalla, Beawar, Dist. Ajmer, Rajasthan',
 		},
 		{
-			title: 'Dadji',
+			title: 'Dadaji',
 			details: 'Late Sh. Tikam Chand Agarwal (Retd. Asst. Director, Mails, CPMG Office, Rajasthan, Jaipur)',
 		},
 		{
