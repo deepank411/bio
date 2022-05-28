@@ -2,7 +2,7 @@ import Me from '../../images/me.jpeg';
 
 function AboutSection() {
 	return (
-		<div className="about">
+		<>
 			<section className="about-section" id="about">
 				<div className="container">
 					<h2
@@ -36,7 +36,7 @@ function AboutSection() {
 					</a>
 				</div> --> */}
 			</section>
-		</div>
+			</>
 	)
 }
 
