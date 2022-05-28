@@ -56,7 +56,7 @@ function FamilySection() {
 		},
 		{
 			title: 'Maasiji',
-			details: 'Two settled in Delhi',
+			details: 'Settled in Delhi',
 		},
 		{
 			title: 'Parental House',
