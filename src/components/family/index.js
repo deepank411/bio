@@ -1,10 +1,6 @@
 function FamilySection() {
 	const details = [
 		{
-			title: 'Parental House',
-			details: 'House No. 5/514, Saraogi Mohalla, Beawar, Dist. Ajmer, Rajasthan',
-		},
-		{
 			title: 'Dadaji',
 			details: 'Late Sh. Tikam Chand Agarwal (Retd. Asst. Director, Mails, CPMG Office, Rajasthan, Jaipur)',
 		},
@@ -29,13 +25,17 @@ function FamilySection() {
 			details: 'Shri Chandra Bhan Agarwal, Retd. District Employment Officer, Govt. of Rajasthan. Settled in Ajmer.',
 		},
 		{
+			title: 'Taiji',
+			details: 'Smt. Raj Rani Agarwal, House maker, Settled in Ajmer.',
+		},
+		{
 			title: 'Buaji',
 			details: [
-				"1. Smt. Suman Lata Agarwal (Retd. Teacher), Settled in Beawar",
+				"1. Smt. Suman Lata Agarwal, Retd. Teacher, Settled in Beawar",
 				<br />,
-				"2. Smt. Lata Goyal (House maker), Settled in Jaipur",
+				"2. Smt. Lata Goyal, House maker, Settled in Jaipur",
 				<br />,
-				"3. Smt. Mamta Agarwal (House maker), Settled in Surat",
+				"3. Smt. Mamta Agarwal, House maker, Settled in Surat",
 			],
 		},
 		{
@@ -57,6 +57,14 @@ function FamilySection() {
 		{
 			title: 'Maasiji',
 			details: 'Two settled in Delhi',
+		},
+		{
+			title: 'Parental House',
+			details: 'House No. 5/514, Saraogi Mohalla, Beawar, Dist. Ajmer, Rajasthan',
+		},
+		{
+			title: 'Address',
+			details: '18, Neelam Society, Dumas Road, Surat, Gujarat',
 		},
 	]
 	return (
