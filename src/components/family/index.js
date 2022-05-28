@@ -18,23 +18,33 @@ function FamilySection() {
 		},
 		{
 			title: 'Mother',
-			details: 'Neema Agarwal, (Housemaker)',
+			details: 'Neema Agarwal (Housemaker)',
 		},
 		{
 			title: 'Younger Sister',
 			details: 'Astha Agarwal, Pursuing  BBA at Surat',
 		},
 		{
-			title: 'Uncle (Tauji)',
+			title: 'Tauji',
 			details: 'Shri Chandra Bhan Agarwal, Retd. District Employment Officer, Govt. of Rajasthan. Settled at Ajmer.',
 		},
 		{
-			title: 'Aunt (Bua)',
-			details: ["1. Smt. Suman Lata Agarwal (Retd. Teacher),  Beawar, Married to Shri Om Prakash Agarwal Retd. Principal, Sr. Sec. School,", <br />, "2. Smt.Lata Goyal(House maker) Married to Sh.Mukesh Kumar Goyal, Retd.DET, BSNL, Jaipur.", <br />, "3. Smt.Mamta Agarwal(House maker) Married to Sh.Harish Agarwal, Businessman, Surat."],
+			title: 'Buaji',
+			details: [
+				"1. Smt. Suman Lata Agarwal (Retd. Teacher), Beawar, Married to Shri Om Prakash Agarwal Retd. Principal, Sr. Sec. School.",
+				<br />,
+				"2. Smt.Lata Goyal (House maker), Married to Sh.Mukesh Kumar Goyal, Retd. DET, BSNL, Jaipur.",
+				<br />,
+				"3. Smt.Mamta Agarwal (House maker), Married to Sh.Harish Agarwal, Businessman, Surat.",
+			],
 		},
 		{
 			title: 'Cousins',
-			details: ["1. Rohit Agarwal, B.Tech.(Computer Science) from IIT Delhi, Product Engineer, UDAAN, Hiveloop Technology Pvt, Ltd. Married to Antulika Goyal, B.Tech. working in Infosys, Gurgaon", <br />,"2. Rishi Agarwal, M.Tech.(Mathematics & Computing) from IIT Delhi, Married to Arpita Agarwal, MCA.working in Accenture, Bangalore."],
+			details: [
+				"1. Rohit Agarwal, B.Tech. (Computer Science) from IIT Delhi, Chief Technology Officer, ElectricPe, Married to Antulika Goyal, B.Tech. working in Infosys, Gurgaon",
+				<br />,
+				"2. Rishi Agarwal, M.Tech. (Mathematics & Computing) from IIT Delhi, Product Manager, Slintel, Married to Arpita Agarwal, MCA. working in Accenture, Bangalore.",
+			],
 		},
 		{
 			title: 'Nanaji',
@@ -45,7 +55,7 @@ function FamilySection() {
 			details: 'Sh. Arul Jain, Delhi, (Businessman)',
 		},
 		{
-			title: 'Maternal Aunt (Maasi)',
+			title: 'Maasiji',
 			details: 'Two settled in Delhi',
 		},
 	]
@@ -54,7 +64,7 @@ function FamilySection() {
 			<section className="skills-section" id="skills">
 				<h2 className="uppercase center invert-color">
 					My Family
-			</h2>
+				</h2>
 				<div className="content custom-container">
 					{details.map(x => <div className="row">
 						<div className="col s12 m4 l3 frow title">
@@ -64,7 +74,7 @@ function FamilySection() {
 							<h6 className="h6">{x.details}</h6>
 						</div>
 					</div>)}
-			</div>
+				</div>
 			</section>
 		</div>
 	)

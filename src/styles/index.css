@@ -49,7 +49,7 @@ button:focus {
 }
 
 .custom-container {
-	width: 80%;
+	width: 90%;
 	margin: 0 auto;
 	padding-top: 2%;
 }
@@ -190,6 +190,19 @@ section h2 {
 .about-section {
 	margin-top: 150px;
 	color: var(--invert-color);
+}
+
+.image-section .title .h6 {
+	font-weight: 600;
+	font-size: 20px;
+	color: var(--invert-color);
+}
+
+.image-section .details .h6 {
+	font-weight: 200;
+	color: var(--invert-color);
+	font-size: 18px;
+	line-height: 1.5;
 }
 
 .image-section {
@@ -385,14 +398,14 @@ section h2 {
 
 .skills-section .title .h6 {
 	font-weight: 600;
-	font-size: 18px;
+	font-size: 20px;
 	color: var(--invert-color);
 }
 
 .skills-section .details .h6 {
 	font-weight: 200;
 	color: var(--invert-color);
-	font-size: 16px;
+	font-size: 18px;
 	line-height: 1.5;
 }
 
@@ -533,7 +546,12 @@ footer {
 /*--------------------- Media Queries -----------------*/
 
 /* Desktop */
-@media screen and (min-device-width: 1200px) {}
+@media screen and (min-device-width: 1200px) {
+	.footer-info {
+		text-align: center;
+		margin-bottom: 20px;
+	}
+}
 
 /* Mobiles */
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
@@ -563,6 +581,7 @@ footer {
 
 	.footer-info {
 		text-align: center;
+		margin-bottom: 20px;
 	}
 
 	.element-item {
