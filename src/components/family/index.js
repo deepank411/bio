@@ -2,7 +2,7 @@ function FamilySection() {
 	const details = [
 		{
 			title: 'Dadaji',
-			details: 'Late Sh. Tikam Chand Agarwal (Retd. Asst. Director, Mails, CPMG Office, Rajasthan, Jaipur)',
+			details: 'Late Sh. Tikam Chand Ji Agarwal (Retd. Asst. Director, Mails, CPMG Office, Rajasthan, Jaipur)',
 		},
 		{
 			title: 'Dadiji',
