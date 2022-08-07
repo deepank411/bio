@@ -1,7 +1,7 @@
 import './gallery.css';
 
 const images = [
-	'https://res.cloudinary.com/deepank411/image/upload/w_1200/v1659880853/my%20photos/amsterdam_i5p62p.jpg',
+	// 'https://res.cloudinary.com/deepank411/image/upload/w_1200/v1659880853/my%20photos/amsterdam_i5p62p.jpg',
 	'https://res.cloudinary.com/deepank411/image/upload/w_600/v1653751174/my%20clicked%20photos/IMG_20190610_170356496_HDR-01_azzjdn.jpg',
 	'https://res.cloudinary.com/deepank411/image/upload/w_600/v1653751185/my%20clicked%20photos/IMG_20190608_192856078-01_qukeud.jpg',
 	'https://res.cloudinary.com/deepank411/image/upload/w_1200/v1659880333/my%20photos/volendam_rirdrh.jpg',
