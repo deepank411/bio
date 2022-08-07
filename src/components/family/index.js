@@ -25,10 +25,6 @@ function FamilySection() {
 			details: 'Shri Chandra Bhan Agarwal, Retd. District Employment Officer, Govt. of Rajasthan. Settled in Ajmer.',
 		},
 		{
-			title: 'Taiji',
-			details: 'Smt. Raj Rani Agarwal, Housemaker, Settled in Ajmer.',
-		},
-		{
 			title: 'Buaji',
 			details: [
 				"1. Smt. Suman Lata Agarwal, Retd. Teacher, Settled in Beawar",
